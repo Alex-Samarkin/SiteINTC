@@ -1,6 +1,7 @@
 
 :root {
-  --intc-color1: rgb(1, 31, 91);
+  --intc-color1: rgb(1, 31, 91); /* dark blue according to brendbook*/
+  --intc-color2: rgb(15, 97, 8); /* darkgreen according to brendbook*/
 }
 
 .custom-navbar {
