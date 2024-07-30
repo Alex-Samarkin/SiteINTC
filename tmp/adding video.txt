@@ -1,0 +1,17 @@
+<video autoplay muted loop src="path/to/video.mp4"></video>
+
+<div class="content">
+    <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei. Id qui nemore latine molestiae, ad mutat oblique delicatissimi pro.</p>
+</div
+
+video {
+    position: fixed /* or absolute, depend on what you want to do */
+    right: 0;
+    min-width: 100%
+    min-height: 100%
+}
+
+.content {
+    width: 100%;
+    /* And do whatever you want to do with your content */
+}

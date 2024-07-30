@@ -1,8 +1,17 @@
 
+:root {
+  --intc-color1: rgb(1, 31, 91);
+}
+
 .custom-navbar {
     background-image: url('./LocalIMG/Logo2.gif');
-    background-color: rgb(1, 31, 91);
+    background-color: var(--intc-color1);
     background-size: auto;
     background-position: right;
     background-repeat: no-repeat;
+    border-radius: 0 0 15px 15px;
+    border-style: solid;
+    border-color: var(--intc-color1);
+    border-width: 5px;
+    padding-bottom: 5px;
   }
